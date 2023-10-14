@@ -1,3 +1,4 @@
+theme: Modernist
 # About me
 
 <img src="images/image.png" alt="drawing" width="200"/>
