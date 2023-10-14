@@ -3,7 +3,8 @@
 <img src="images/image.png" alt="drawing" width="200"/>
 
 - My name is Nikolay Lisitsky.
-- I'm junior Python developer. 
+- I’m interested in developing and new technologies.
+- I’m looking to collaborate with someone
 
 ## My projects:
 
