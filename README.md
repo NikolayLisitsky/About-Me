@@ -1,15 +1,12 @@
 # About Me
-=
 
-![](images/image.png)
+<img src="images/image.png" alt="drawing" width="100"/>
 - My name is Nikolay Lisitsky.
 - I'm junior Python developer. 
 
 ## My projects:
-------
 
 - They will be here soon
 
 ## My contacts
-------
-[Почта](lisitscky.k@yandex.ru)
+lisitscky.k@yandex.ru
