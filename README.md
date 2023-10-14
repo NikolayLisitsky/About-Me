@@ -1,15 +1,15 @@
-># About Me
-======
+# About Me
+=
 
 ![](images/image.png)
 - My name is Nikolay Lisitsky.
 - I'm junior Python developer. 
 
->## My projects:
+## My projects:
 ------
 
 - They will be here soon
 
->## My contacts
+## My contacts
 ------
 [Почта](lisitscky.k@yandex.ru)
