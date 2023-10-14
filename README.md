@@ -1,5 +1,3 @@
-# About Me
-
 <img src="images/image.png" alt="drawing" width="200"/>
 
 - My name is Nikolay Lisitsky.
