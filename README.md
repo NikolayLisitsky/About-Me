@@ -11,4 +11,4 @@
 - They will be here soon
 
 ## My contacts
-telegarm - @n_icolis
+Telegarm - @n_icolis
