@@ -11,4 +11,4 @@
 - They will be here soon
 
 ## My contacts
-lisitscky.k@yandex.ru
+telegarm - @n_icolis
