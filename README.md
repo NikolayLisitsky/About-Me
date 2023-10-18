@@ -12,3 +12,5 @@
 
 ## My contacts
 Telegarm - @n_icolis
+
+theme: Midnight
